@@ -41,3 +41,9 @@ a.	This can be done using cat <reconstruction file> | head -1 > <reconstruction 
 b.	Then delete the ‘Total number of reads’ prefix and all trailing tabs
 c.	In the reconstruction file remove the first line.
 Now you’re ready to use the infrastructure for reading these files into python datastructures, hit calling (deciding what’s noise and what’s signal) 
+
+Run the main() function in Analysis_Pipeline_16S_TMB.py
+
+For questions please email:
+Ilana Livyatan: ilana.livyatan@weizmann.ac.il
+Ravid Straussman: ravidst@weizmann.ac.il
